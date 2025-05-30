@@ -85,14 +85,13 @@ a {
 .cta-button:hover {
   background-color: var(--accent-pink);
   box-shadow: var(--shadow-lg);
-  border: 1px solid var(--warm-taupe); 
   color: var(--soft-white);
   transition: var(--transition);
 }
 
 .hero {
   background-color: var(--accent-pink);
-  background-image: url(imgs/background.jpg);
+  background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   text-align: center;
